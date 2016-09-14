@@ -1,0 +1,5 @@
+a) int (*f)[3] => puntero a una funcion que toma un arreglo de 3 elementos y devuelve un entero
+b) int *f[3] => f es una funcion que toma una arreglo de 3 elementos y devuelve un puntero a entero  
+c) int *(f[3]) => Idem b
+d) int *f() => f es una funcion que no toma argumentos y devuelve un puntero a entero
+e) int (*f)() => puntero a una funcion que no toma argumentos y devuelve un entero 

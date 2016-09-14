@@ -1,0 +1,1 @@
+Malloc esta definida como void* malloc(int) , donde void* es un puntero general . Si no hay espacio, malloc devuelve 0 ya que cero es la unica expresion que puede ser asignada a un apuntador, y este puede compararse con la constante cero ... {P.agina 113 del Kernighan & Ritchie} 
